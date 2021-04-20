@@ -1,0 +1,3 @@
+Welcome to python programming workshop
+hi this is python
+hi this is vignan's lara
